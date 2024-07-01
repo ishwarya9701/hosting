@@ -1,0 +1,26 @@
+.FONTS{
+    width:400px;
+    height: 400px;
+    background-color:blue;
+    border-style:solid dashed dotted double;border-color: rgb(115, 255, 0);
+}
+.command{
+    width: 300px;
+    height:300px ;
+    background-image:url(https://img.freepik.com/free-photo/beautiful-landscape-mother-nature_23-2148992406.jpg?t=st=1714955926~exp=1714956526~hmac=73e27cb74662d499a35db33ca5056b341f1f71c14712516e0f26eb9e1246817a);
+}
+.text{
+    border-style:solid dashed dotted double;
+    
+}
+.round{
+    width:600px;
+    height: 600px;
+    border-style:solid;
+    background-color: blue;display:flex;
+}
+.circle{
+    width: 100px;
+    height: 100px;
+    background-color: aqua;
+}

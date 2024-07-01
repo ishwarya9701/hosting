@@ -1,0 +1,38 @@
+.qwer{
+    width: 400px;
+    height: 400px;
+    background-color: aqua;
+    transition:width 3s,height 2s;
+    
+}
+.qwer:hover{
+    width: 700px;
+    height: 700px;
+    background-color:black;
+   
+}
+
+.jkjk{
+    height: 400px;
+    width: 400px;
+    background-color: aqua;
+}
+.nonb{
+    font-size: 20px;
+    color: black;
+    text-align: center;
+    margin-top:50;
+}
+
+
+.jkjk:hover{
+    height: 500px;
+    width: 600px;
+    background-color: aqua;
+}
+.jkjk:hover .nonb{
+    font-size: 26px;
+    color: rgb(227, 216, 216);
+    text-align: center;
+    margin-top:50;
+}

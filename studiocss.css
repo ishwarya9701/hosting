@@ -1,0 +1,262 @@
+@media only screen and (min-width:1400px) and (max-width:2000px)
+{
+.header{
+    background-color:#422f65;
+    display: flex;
+    padding: 30px;
+    column-gap: 225px;
+}
+.col-3{
+    display: flex;
+    column-gap:30px;
+    
+}
+
+.head1{
+    color: white;
+    font-size: 20px;
+    font-family: "Oswald", sans-serif;
+}
+.head2{
+    color: rgb(236, 224, 8);
+    font-size: 20px;
+    font-family: "Poetsen One", sans-serif;
+    text-align: center;
+ 
+}
+.head3{
+    color: white;
+    font-size: 20px;
+    font-family: "Oswald", sans-serif;
+}
+.photo1{
+    margin-left: -114px;
+    width: 115.5%;
+}
+.para1{
+    z-index:1;
+    position: absolute;
+    color: white;
+    margin-top: 180px;
+    font-size: 102px;
+    font-family: "Jaro", sans-serif;
+    
+    
+}
+.backgd1{
+    background-color:#8359d1;
+    height: 600px;
+}
+.butterfly{
+    height: 400px;
+    width: 400px;
+    margin-top: 110px;
+    margin-left: 152px;
+    border-radius: 70px 0px 70px 0px;
+}
+.para2{
+    color: rgb(236, 224, 8);
+    font-size: 30px;
+    margin-top: 145px;
+    font-family: "Poetsen One", sans-serif;
+}
+.para3{
+    color: white;
+    width: 400px;
+    font-size: 20px;
+}
+.backgd2{
+    background-color:#ea3ee5;
+    height: 1500px;
+}
+.heading{
+    text-align: center;
+    font-size: 38px;
+    color:#422f65 ;
+    font-family: "Poetsen One", sans-serif;
+    margin-top: 43px;
+
+}
+.online{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.grap{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.anime{
+    display: flex;
+    flex-direction: column;
+    align-items: center; 
+}
+.draw{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.tablet{
+    height: 400px;
+    width: 500px;
+    border-radius: 20px;
+    margin-top:44px;
+}
+
+.tab{
+ color: #422f65;
+ font-size: 20px;
+ font-family: "Poetsen One", sans-serif;
+}
+.words{
+    color: white;
+    width: 500px;
+    font-size: 20px;
+}
+.backgd3{
+    background-color:#8359d1;
+    height: 1100px;
+}
+.para6{
+    color: rgb(236, 224, 8);
+    font-size: 35px;
+    margin-top: 148px;
+    margin-left: 214px;
+    font-family: "Poetsen One", sans-serif;
+}
+.para7{
+    color: white;
+    width: 500px;
+    font-size: 20px;
+    margin-left: 214px
+}
+.painting{
+    height: 400px;
+    width: 550px;
+    margin-top: 75px;
+    border-radius: 70px 0px 70px 0px;
+}
+.potraits{
+    height: 400px;
+    width: 550px;
+    margin-top: 108px;
+    margin-left: 35px;
+    border-radius: 70px 0px 70px 0px;
+}
+.para9{
+    color: rgb(236, 224, 8);
+    font-size: 35px;
+    margin-top: 150px;
+    font-family: "Poetsen One", sans-serif;
+}
+.para10{
+    color: white;
+    width: 500px;
+    font-size: 20px;
+}
+.backgd4{
+    background-color:#ea3ee5;
+    height: 1100px;
+}
+.meet{
+    text-align: center;
+    color: #2e165a;
+    font-size: 40px;
+    margin-top: 30px;
+    font-family: "Poetsen One", sans-serif;
+}
+.card-text{
+    color: rgb(166, 38, 38);
+    font-family: "Poetsen One", sans-serif;
+    font-size: 30px;
+}
+.worktype{
+    font-family: "Roboto Condensed", sans-serif;
+    
+}
+.backgd5{
+    background-color:wheat;
+    height: 300px;
+}
+.bgdwrite{
+    text-align: center;
+    color: rgb(175, 33, 33);
+    margin-top: 45px;
+    font-size: 20px;
+    font-family: "Poetsen One", sans-serif;
+}
+.write{
+    text-align: center;
+}
+.textbox{
+    text-align: center; 
+}
+.txt{
+    border:rgb(233, 236, 224); ;
+    height: 50px;
+    width: 250px;
+}
+.button{
+    height: 50px;
+    width: 200px;
+    color: white;
+    border: 0px;
+    background-color: rgb(31, 195, 31);
+    
+}
+button:hover{
+    background-color: #422f65;
+}
+.backgd6{
+    background-color:#422f65;
+    height: 300px;
+    position: sticky;
+}
+.backgd7{
+    background-color:#4e1d1d;
+    height: 300px;
+}
+
+.footer1{
+    color: aliceblue;
+    font-family: "Poetsen One", sans-serif;
+    font-size: 20px;
+    text-align: center;
+    margin-top: 74px;
+}
+.footer{
+    color: white;
+    text-align: center;
+}
+
+.img{
+    text-align: center;
+    margin-top: 120px;
+    height: 50;
+    margin-left: 200px;
+
+}
+.img1{
+    height:20;
+    width: 20;
+    margin-left: 32px;
+    margin-top: 138px;
+}
+.foot{
+    text-align: center;
+    color: white;
+}
+.button1{
+    height: 50px;
+    width: 200px;
+    color: white;
+    background-color:rgb(236, 224, 8);
+    border-radius: 20px;
+    border: 0px;
+}
+.button1:hover{
+    background-color: rgb(225, 37, 68);
+}
+}
+

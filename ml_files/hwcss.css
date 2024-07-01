@@ -1,0 +1,232 @@
+
+@media only screen and (min-width:1400px) and (max-width:2000px)
+{
+.head{
+  background-color:plum;
+  padding:20;
+  display: flex;
+  justify-content: space-between;
+
+}
+
+.one{
+    color: white;
+    font-size:30px;
+
+    
+}
+.two{
+    display: flex;
+    justify-content: space-between;
+    gap: 113px;
+    color: white;
+    font-size: 20px;
+}
+.heading{
+    text-align:center;
+    color: rgb(125, 10, 125);
+    font-size:50px;
+    font-weight:600;
+    margin-top: 60;
+}
+.para{
+    display: flex;
+    justify-content: space-around;
+}
+.para1{
+    text-align:center;
+    width: 693px;
+    position: relative;
+    margin-bottom:100;
+    font-size:25;
+    font-weight: 100;
+    color: rgb(188, 91, 188); 
+}
+.para2{
+    display:flex;
+    justify-content: space-evenly;
+}
+.lol{
+    color:rgb(125, 10, 125);
+    font-size: 50px;
+    font-weight:600;
+    margin-left:50;
+    margin-top:-70px;
+}
+.mnbv{
+    color: red;
+    font-size:40;
+    font-weight:30;
+}
+.xcv{
+    height:1200;
+    width:400;
+    font-size: 35;
+}
+.fof{
+    display:flex;
+    justify-content: space-evenly;
+}
+.grt{
+    color: red;
+    font-size:40;
+    font-weight:30;
+    
+}
+.trg{
+    height:600;
+    width:400;
+    font-size: 35;
+    color: black;
+}
+.azaz{
+    color:rgb(125, 10, 125);
+    font-size: 50px;
+    font-weight:600;
+    margin-left:834;
+    margin-top:-700;
+}
+.five{
+    display:flex;
+    justify-content: space-evenly;
+
+}
+.six{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.iii{
+    text-align: center;
+    margin-top: 60;
+    margin-left: -45px;
+}
+
+.kkk{
+    height: 300px;
+    width: 300px;
+    margin-top: 60;
+}
+.mmm{
+    text-align: center;
+    font-size: 30px;
+    font-weight: 500;
+    color:white;
+    margin-left: -219px;
+}
+.nnn{
+    text-align: center;
+    font-size: 30px;
+    font-weight: 500;
+    color:white;
+    position: absolute;
+    margin-left: 61px;
+}
+.bbb{
+    text-align: center;
+    font-size: 30px;
+    font-weight: 500;
+    color:white;
+    position: absolute;
+    margin-left: 61px;
+}
+.vvv{
+    text-align: center;
+    font-size: 30px;
+    font-weight: 500;
+    color:white;
+    position: absolute;
+    margin-left: 61px;
+}
+.qqq{
+    
+    margin-top: 73px;
+    display: flex;
+    justify-content: space-around;
+    position: absolute;
+}
+.rrr{
+    
+    color: rgb(125, 10, 125);
+    font-size:50px;
+    font-weight:600;
+    margin-top: 75px;
+    margin-left: 149px;
+}
+
+.ooo{
+    display:flex;
+    justify-content: space-around;
+}
+
+
+.ttt{
+    height: 500;
+    width: 600;
+    margin-bottom: 150px;
+    margin-top: 34px;
+}
+.uuu{
+    display: flex;
+    gap: 30px;
+    height: 500;
+    width: 500;
+    background-color: rgb(223, 61, 223);
+    border-radius: 40px;
+    margin-top: 60px;
+}
+.ddd{
+    color:rgb(125, 10, 125);
+    height: 250;
+    font-size: 45px;
+    padding: 50;
+}
+.footer{
+    padding: 10;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color:plum;
+    text-align: center;
+ }
+
+.foot{
+    color: white;
+    text-align: center;
+    font-size: 30px;
+
+}
+.input{
+  display: flex;
+  margin-top: 20px;
+  padding: 11px 0px 0px 0px;
+  color:rgb(125, 10, 125) ;
+  flex-direction: column;
+  gap:90px;
+  font-size: 20;
+  margin-left: 100px;
+
+  }
+.txtbox{
+    display: flex;
+    flex-direction: column;
+    gap: 59px;
+    margin-top: 20px;
+  }
+  .txt{
+    width: 250px;
+    height: 50px ;
+  }
+  .button{
+    margin-top: -62px;
+    MARGIN-LEFT: 123px;
+    height: 55px;
+    width: 300px;
+    color: white;
+    background-color: rgb(245, 164, 245);
+    border-radius: 20px;
+  }
+}
+  
+
+  
